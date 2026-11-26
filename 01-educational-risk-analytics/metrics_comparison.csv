@@ -1,0 +1,5 @@
+regime,model,recall_at_risk,precision_at_risk,f1_at_risk
+Early-Warning (No Midterms),LogisticRegression,0.757,0.773,0.765
+Early-Warning (No Midterms),HistGradientBoosting,0.693,0.784,0.736
+Mid-Term (With Midterms),LogisticRegression,0.841,0.837,0.839
+Mid-Term (With Midterms),HistGradientBoosting,0.815,0.842,0.828
